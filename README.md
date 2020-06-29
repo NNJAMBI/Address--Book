@@ -21,6 +21,5 @@ Install address-book by cloning this repository.
 
 
 
-
 ## Technologies Used
 JavaScript and jQuery
