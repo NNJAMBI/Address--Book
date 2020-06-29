@@ -1,26 +1,26 @@
-#address-book
+# address-book
 
 
 
 
-##JavaScript OO - Address Book
+## JavaScript OO - Address Book
 
 
 
 
-##Description
+## Description
+
 This application is a demonstration of constructors and prototypes using JavaScript to create a simple Address Book app.
 
 
 
 
-
-##Setup
+## Setup
 Install address-book by cloning this repository.
 
 
 
 
 
-##Technologies Used
+## Technologies Used
 JavaScript and jQuery
